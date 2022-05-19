@@ -1,16 +1,28 @@
 # CareService-Team
 ## 👵 한이음 프로젝트 🧓
 
-## 서비스 소개
-일정 거리에 있는 노약자들 간의 결집력을 높이고 방문후원자가 해당 지역에 방문하는 경우 주소를 확인하여 최대한 근거리 가구 방문이 가능하도록 합니다.</br> 
-노약자, 사회복지사, 연결망을 구축하여 사각지대 노약자 보호를 위한 케어 서비스 입니다.</br>
-
 ## 개발자 소개
 💻 동덕여자대학교 - 송현수, 김여진 </br>
 💻 명지대학교 - 최예은, 이시연
 
+## 서비스 소개
+일정 거리에 있는 노약자들 간의 결집력을 높이고 방문후원자가 해당 지역에 방문하는 경우 주소를 확인하여 최대한 근거리 가구 방문이 가능하도록 합니다.</br> 
+노약자, 사회복지사, 연결망을 구축하여 사각지대 노약자 보호를 위한 케어 서비스 입니다.</br>
+
+## 개발 환경
+<span>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+</span>
+
 ## 업무 분담
-![image](https://user-images.githubusercontent.com/78431728/157072229-20a11474-6302-48f2-89fa-901ebfdfef1d.png)
+📌 송현수 - 안드로이드 개발, UI 디자인 담당 </br>
+📌 이시연 - 안드로이드 개발, 보고서 검토 및 제출 </br>
+📌 김여진 - 웹 개발, 관리자용 페이지 구축 </br>
+📌 최예은 - 서버 개발, 서버 환경 구축 </br>
 
 ## 시스템 설계 , DB 설계 과정
 ![image](https://user-images.githubusercontent.com/78431728/157071217-37c2be7d-ede9-4236-a153-b8d7116dc181.png)
@@ -29,9 +41,4 @@
 ![image](https://user-images.githubusercontent.com/78431728/157071997-13f0eaf8-bed0-44ae-ab74-3ea7409f35fc.png)
 ![image](https://user-images.githubusercontent.com/78431728/157072061-345bd0d4-96a1-4a38-9752-7226d924c2ab.png)
 
-## 개발 환경
-<span>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-</span>
+
